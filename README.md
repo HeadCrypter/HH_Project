@@ -1,7 +1,10 @@
 # HeadHunter Project
 *made by Federyaev Klim*
+
 Описание задачи :
+
 "Настало время попробовать свои силы в реальном Data Science-проекте. Вам предстоит решить часть настоящей бизнес-задачи и примерить роль аналитика в компании HeadHunter. Проект станет новым этапом сбора вашего портфолио на GitHub, которым вы сможете похвастаться перед работодателем!"
+
 dataset [link](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)
 
 ## Описание данных
